@@ -1,0 +1,6 @@
+Computador,3500.00
+Mouse,65.00
+Teclado,150.00
+Fone,80.00
+Mesa,450.00
+Iphone,12000.00
